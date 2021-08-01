@@ -9,4 +9,4 @@ The technologies used in this solution include:
 - Python: automate the creation and synchronisation of student rubrics and class results
 
 ## Instructions
-Use the detailed steps listed in TheJPanda blog post in order to appropriately use this code.
+Use the detailed steps listed in TheJPanda blog post (http://thejpanda.com/2021/08/01/automation-using-google-drive-google-sheets-and-python-in-google-colaboratory-to-automate-rubric-creation-and-synchronisation/) in order to appropriately use this code.
